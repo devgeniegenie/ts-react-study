@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 
-import GuGuDan from './GuGuDan'
+import WordRelay from './WordRelay'
 
-ReactDom.render(<GuGuDan/>, document.querySelector('#root'))
+ReactDom.render(<WordRelay/>, document.querySelector('#root'))
